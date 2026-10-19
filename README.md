@@ -12,10 +12,13 @@ Self-contained demo pages for embedding in a Celonis Studio view (iframe compone
 | 05 | Dealer Intelligence | https://smiqueleti.github.io/Safra/05-safra-dealer-intelligence.html |
 | 06 | Dealer Copilot (API / MCP) | https://smiqueleti.github.io/Safra/06-safra-dealer-copilot.html |
 | 07 | Disbursement Assurance | https://smiqueleti.github.io/Safra/07-safra-disbursement-assurance.html |
+| 08 | Conversion Context Model (Apollo) | https://smiqueleti.github.io/Safra/08-safra-conversion-context-model.html |
 
 Optional URL parameters:
 
 - `00-safra-control-tower.html?tab=ai` opens directly on the AI Opportunities tab.
+- `00-safra-control-tower.html?tab=fatores` opens directly on the Fatores da conversão tab.
+- `08-safra-conversion-context-model.html?static=1` opens with the Context Model already built (without it, the page starts empty and Apollo builds the model when you send the prompt).
 - `02-safra-approval-orchestration.html?mode=flow` opens directly on the orchestration canvas.
 
 Each page needs at least 1280 px of width.
