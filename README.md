@@ -13,6 +13,8 @@ Self-contained demo pages for embedding in a Celonis Studio view (iframe compone
 | 06 | Dealer Copilot (API / MCP) | https://smiqueleti.github.io/Safra/06-safra-dealer-copilot.html |
 | 07 | Disbursement Assurance | https://smiqueleti.github.io/Safra/07-safra-disbursement-assurance.html |
 | 08 | Conversion Context Model (Apollo) | https://smiqueleti.github.io/Safra/08-safra-conversion-context-model.html |
+| M1 | Monitor do Operador | https://smiqueleti.github.io/Safra/01-safra-monitor-do-operador.html |
+| M2 | Orquestrações do Monitor | https://smiqueleti.github.io/Safra/02-safra-orquestracoes-do-monitor.html |
 
 Optional URL parameters:
 
