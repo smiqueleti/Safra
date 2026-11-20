@@ -15,6 +15,7 @@ Self-contained demo pages for embedding in a Celonis Studio view (iframe compone
 | 08 | Conversion Context Model (Apollo) | https://smiqueleti.github.io/Safra/08-safra-conversion-context-model.html |
 | M1 | Monitor do Operador | https://smiqueleti.github.io/Safra/01-safra-monitor-do-operador.html |
 | M2 | Orquestrações do Monitor | https://smiqueleti.github.io/Safra/02-safra-orquestracoes-do-monitor.html |
+| C1 | Recuperação Comercial | https://smiqueleti.github.io/Safra/03-safra-recuperacao-comercial.html |
 
 Optional URL parameters:
 
